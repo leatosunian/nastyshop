@@ -192,8 +192,8 @@ background-color: #000000 !important ;
 }
 
 .navbar {
-  padding-top: .05rem !important;
-  padding-bottom: .05rem !important;
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
 }
 
 .navbar-icon-link-badge {

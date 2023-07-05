@@ -490,6 +490,11 @@
   </div>
 </template>
 
+<style>
+.product-image {
+  border-bottom: 1px solid #474747 !important;
+}
+</style>
 
 <script>
 import noUiSlider from '../../../public/assets/js/nouislider.min.mjs'
