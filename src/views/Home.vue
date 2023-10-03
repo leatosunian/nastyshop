@@ -8,7 +8,7 @@
             <div class="py-6 mt-6 overlay-content px-lg-5 mt-lg-0 mb-lg-5" style="margin: 0 auto !important">
               <h1 class="mb-2 text-white display-3 fw-bold split-screen-heading letter-spacing-1">HOMBRES</h1>
               <p class="mb-4 lead" >Los modelos masculinos mas exclusivos del mercado.</p>
-              <p> <button class="catButton" type="button">VER PRODUCTOS</button></p>
+              <router-link to="/products?category=Hombres#!"><button class="catButton" type="button">VER PRODUCTOS</button></router-link>
             </div>
           </div>
           <div class="col-lg-6 split-screen-column align-items-center align-items-lg-end" style="background-image: url(../assets/banner2.webp); background-color: #e5b6b4;"> 
@@ -16,14 +16,14 @@
             <div class="py-6 px-lg-5 mb-lg-5" style="margin: 0 auto !important">
               <h1 class="mb-2 display-3 fw-bold split-screen-heading letter-spacing-1" style="color: white;">MUJERES</h1>
               <p class="mb-4 lead" style="font-weight:500;">Descubre nuestra colección de calzado femenino.</p>
-              <button class="catButton" type="button">VER PRODUCTOS</button>
+              <router-link to="/products?category=Mujeres#!"><button class="catButton" type="button">VER PRODUCTOS</button></router-link>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="pt-6 pb-2">
+    <section class="pt-6 pb-2" style="margin: 70px 0">
       <div class="container">
         <div class="row">
           <div class="mx-auto mb-5 text-center col-xl-8">
@@ -59,7 +59,7 @@
       </div>
     </section>
     
-    <section class="py-4 bg-gray-100">
+    <section class="py-4 bg-gray-100" style="margin: 70px 0">
       <div class="container">
         <div class="row">
           <div class="mx-auto mb-5 text-center col-xl-8">
@@ -100,7 +100,7 @@
 
    
     
-    <section class="pt-6 pb-2" >
+    <section class="pt-6 pb-2" style="margin: 70px 0">
 
 
       <div class="container">
@@ -136,7 +136,7 @@
       </div>
 
       <!-- Services block-->
-      <div class="py-6 bg-gray-100 text-dark-700" style="margin: 70px 0">
+      <!-- <div class="py-6 bg-gray-100 text-dark-700" style="margin: 70px 0">
         <div class="container">
           <div class="row">
             <div class="col-lg-4 service-column">
@@ -162,7 +162,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </section>
   </div>
 </template>

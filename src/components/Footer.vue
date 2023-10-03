@@ -39,8 +39,9 @@
                   </div>
                   
                   <div class="col-lg-4">
-                    <h6 class="mb-3 text-white text-uppercase">Daily Offers & Discounts</h6>
-                    <p class="mb-3 text-white"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. At itaque temporibus.</p>
+                    <h6 class="mb-3 text-white text-uppercase">Horario</h6>
+                    <p class="text-white" style="margin-bottom: 4px !important;"> <b>Lunes a Sábado </b>| 09:00hs a 12:00hs y de 15:00hs a 19:00hs</p>
+                    <p class="text-white "> <b>Domingo </b>| 16:00hs a 19:00hs</p>
                     <h6 class="mb-3 text-white text-uppercase">Contactanos</h6>
                     <p class="mb-3 text-white">Visitanos en 📍 Alberti 2956, Buenos Aires, Mar del Plata.</p>
                   </div>
@@ -59,7 +60,6 @@
                     <ul class="mt-2 mb-0 text-center list-inline mt-md-0 text-md-end">
                       <li class="list-inline-item"><img class="w-2rem" src="https://d19m59y37dris4.cloudfront.net/sell/2-0/img/visa.svg" alt="..."></li>
                       <li class="list-inline-item"><img class="w-2rem" src="https://d19m59y37dris4.cloudfront.net/sell/2-0/img/mastercard.svg" alt="..."></li>
-                      <li class="list-inline-item"><img class="w-2rem" src="https://d19m59y37dris4.cloudfront.net/sell/2-0/img/paypal.svg" alt="..."></li>
                     </ul>
                   </div>
                 </div>
