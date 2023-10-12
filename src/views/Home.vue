@@ -10,6 +10,7 @@
               <p class="mb-4 lead" >Los modelos masculinos mas exclusivos del mercado.</p>
               <router-link to="/products?category=Hombres#!"><button class="catButton" type="button">VER PRODUCTOS</button></router-link>
             </div>
+            
           </div>
           <div class="col-lg-6 split-screen-column align-items-center align-items-lg-end" style="background-image: url(../assets/banner2.webp); background-color: #e5b6b4;"> 
           <!-- <div class="col-lg-6 split-screen-column align-items-center align-items-lg-end" style="background-image: url(../assets/backk2.jpg); background-color: #e5b6b4;">  -->

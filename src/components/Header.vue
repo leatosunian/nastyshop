@@ -6,7 +6,7 @@
         <div class="container-fluid">  
           <!-- Navbar Header  -->
           <router-link class="navbar-brand"  style="heigth:fit-content!important;" to="/">
-            <img src="@/assets/nastylogo2.jpg" class="logoImg" alt="">
+            <img src="@/assets/unc.png" class="logoImg" alt="">
             <!-- <img src="@/assets/new-deco.png" class="logoImg" style="width:41px!important;" alt=""> -->
           </router-link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,6 +21,7 @@
               <li v-on:click="toProducts()" class="nav-item">
                 <router-link to="/products" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" class="nav-link">Productos</router-link>
               </li>
+              
 
               <!-- Megamenu-->
               <li class="nav-item dropdown position-static"><a class="nav-link dropdown-toggle " href="#" data-bs-toggle="dropdown">Categorias</a>
